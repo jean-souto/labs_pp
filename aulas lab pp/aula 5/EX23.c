@@ -11,7 +11,7 @@ saída para n = 6 seria:
 
 void piramide (int nun)
 {
-    int i, x, y, z, j;
+    int i, x, j;
 
     for (i = 1; i <= nun; i++)
     {
